@@ -30,5 +30,8 @@ b. Returns the following:
 
          etc...
 
-run script in terminal with: ruby lib/parser_oo.rb data/webserver.log
-run tests with: rake
+built in ruby version 2.6.3
+
+run script in terminal with: `ruby lib/parser_oo.rb data/webserver.log` as per description spec. Could also be run as a rake task to clean up test output.
+
+run tests with: `rake`
